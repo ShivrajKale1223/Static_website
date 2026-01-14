@@ -101,7 +101,7 @@ sudo systemctl restart nginx
 
 ##  Author
 This documentation was auto‑generated to assist in AWS static website deployment.
-this change
+
 
 
 
